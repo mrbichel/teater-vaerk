@@ -1,0 +1,14 @@
+<group>
+	<Near_Threshold>102</Near_Threshold>
+	<Far_Threshold>72</Far_Threshold>
+	<Min_blob_size>1536</Min_blob_size>
+	<Max_blob_size>74496</Max_blob_size>
+	<Learn_bg>0</Learn_bg>
+	<Threshold>212</Threshold>
+<group/>
+<filter_fc>0.05</filter_fc>
+	<filter_q>0.035</filter_q>
+	<filter_peak_gain>0.79</filter_peak_gain>
+<scale_img>0.26</scale_img>
+<offset_img>0, -85.7143</offset_img>
+</group>
